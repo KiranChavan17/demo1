@@ -1,4 +1,9 @@
 This file is E
 --------------------
+<<<<<<< HEAD
 now this file edited by dev1
 ---------------
+=======
+this file is edited by dev2
+------------------------
+>>>>>>> ad8d4760b1d3dc6467f9844aeb7f7d765db02747
